@@ -14,6 +14,12 @@
 - [Site de Marketplace de carros com Next.js](https://github.com/Digao-Onofri/Trab_Web)
 - [Projetos de Algortimos utilizando Python](https://github.com/Digao-Onofri/Algoritmos-II)
 
+![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula)
+
+[![Minhas Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark)](https://git.io/streak-stats)
+
 ## 📫 Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/ivansilv%C3%A9rio/)
 - Email: ivanmatheus005@gmail.com
