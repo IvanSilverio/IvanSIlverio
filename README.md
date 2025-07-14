@@ -11,7 +11,7 @@
 - **Testes:** Selenium
 
 ## 📂 Meus principais projetos:
-- [Site de Marketplace de carros com Next.js](https://github.com/IvanSilverio/seurepositorio)
+- [Site de Marketplace de carros com Next.js](https://github.com/Digao-Onofri/Trab_Web)
 
 ## 📫 Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/ivansilv%C3%A9rio/)
