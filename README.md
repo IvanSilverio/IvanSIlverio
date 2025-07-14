@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Ivan
 
-<!--
-**IvanSilverio/IvanSIlverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na UNIFEI  
+💻 Apaixonado por desenvolvimento de software
+🚀 Em busca de oportunidades para aplicar e expandir meus conhecimentos
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que tenho trabalhado:
+- **Front-end:** Next.js, TypeScript (básico), HTML, CSS
+- **Back-end:** Node.js (básico), APIs REST
+- **Ferramentas:** Git, GitHub, VS Code
+- **Testes:** Selenium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Meus principais projetos:
+- [Site de Marketplace de carros com Next.js](https://github.com/IvanSilverio/seurepositorio)
+
+## 📫 Onde me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/ivansilv%C3%A9rio/)
+- Email: ivanmatheus005@gmail.com
+
+---
+
+✨ “Aprendizado contínuo é o combustível do progresso.”  
