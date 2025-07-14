@@ -12,6 +12,7 @@
 
 ## 📂 Meus principais projetos:
 - [Site de Marketplace de carros com Next.js](https://github.com/Digao-Onofri/Trab_Web)
+- [Projetos de Algortimos utilizando Python](https://github.com/Digao-Onofri/Algoritmos-II)
 
 ## 📫 Onde me encontrar:
 - [LinkedIn](https://www.linkedin.com/in/ivansilv%C3%A9rio/)
