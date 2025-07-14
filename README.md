@@ -18,7 +18,7 @@
 
 ![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSilverio&layout=compact&theme=dracula)
 
-[![Minhas Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?user=IvanSilverio&theme=dark
+[![Minhas Contribuições Diárias](https://github-readme-streak-stats.herokuapp.com/?username=IvanSilverio&theme=dark
 )
 
 ## 📫 Onde me encontrar:
