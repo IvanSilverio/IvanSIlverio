@@ -7,7 +7,7 @@
 ## 🛠️ Tecnologias que tenho trabalhado:
 - **Front-end:** Next.js, TypeScript (básico), HTML, CSS
 - **Back-end:** Node.js (básico), APIs REST
-- **Ferramentas:** Git, GitHub, VS Code
+- **Ferramentas:** VS Code, Notion
 - **Testes:** Selenium
 
 ## 📂 Meus principais projetos:
