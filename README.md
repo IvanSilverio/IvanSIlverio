@@ -47,18 +47,11 @@ Atualmente atuo como **Assessor da Vice-Presidência** na **Asimov Jr.**, onde d
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanSilverio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSilverio&layout=compact&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanSilverio&show_icons=true&theme=dracula&&hide_rank=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanSilverio&layout=compact&theme=dracula&hide=jupyter%20notebook"/></div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=IvanSilverio&theme=dracula&hide_border=true" alt="IvanSilverio streak" />
-</div>
-
----
-
-## 📫 Vamos conversar?
+## 📫 Contatos
 
 - **LinkedIn:** [Ivan Silvério](https://www.linkedin.com/in/ivansilv%C3%A9rio/)
 - **Email:** [ivanmatheus005@gmail.com](mailto:ivanmatheus005@gmail.com)
