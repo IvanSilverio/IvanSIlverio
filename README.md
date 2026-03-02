@@ -37,7 +37,7 @@ Atualmente atuo como **Assessor da Vice-Presidência** na **Asimov Jr.**, onde d
 
 ### 🎬 **[CineGraph (Recomendação de Filmes)](https://github.com/IvanSilverio/CineGraph_Recommendation_Engine)**
 *Engine de recomendação baseada em Teoria dos Grafos.*
-- **Tech:** Python, FastAPI PostgreSQL, React.
+- **Tech:** Python, FastAPI, PostgreSQL, React.
 - Desenvolvido para sugerir filmes analisando conexões entre usuários e gêneros.
 
 ### 📅 **[Gerador de Horários Universitários](https://github.com/IvanSilverio/University-Timetabling-Solver)**
